@@ -1,0 +1,20 @@
+.about1{
+    
+    width: 60%;
+    background-color: #DE3265;
+}
+.line{
+    width: 10%;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 0;
+    border: 1px solid black;
+}
+.about1 h1{
+    font-size: 3em;
+}
+.about1 p{
+    font-size: 1.3em;
+    padding: 12px;
+    text-align: center;
+}
